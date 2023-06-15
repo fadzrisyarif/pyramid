@@ -10322,7 +10322,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5963714163013358,
+        "zoomFactor": 0.3282931214416306,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11548,7 +11548,7 @@
           "name": "ladder",
           "persistentUuid": "ac3d0c0d-6982-488d-9efb-182cb36ec744",
           "width": 0,
-          "x": 2364,
+          "x": 2381,
           "y": 413,
           "zOrder": 63,
           "numberProperties": [],
@@ -11563,7 +11563,7 @@
           "name": "ladder",
           "persistentUuid": "b8c32b34-c6ff-4cda-b640-6efa00c06715",
           "width": 0,
-          "x": 2364,
+          "x": 2381,
           "y": 461,
           "zOrder": 64,
           "numberProperties": [],
@@ -11578,7 +11578,7 @@
           "name": "ladder",
           "persistentUuid": "80f108e3-e00f-4b18-9ca3-139b33a5e867",
           "width": 0,
-          "x": 2364,
+          "x": 2381,
           "y": 509,
           "zOrder": 65,
           "numberProperties": [],
@@ -11767,21 +11767,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 46,
-          "layer": "",
-          "name": "portal",
-          "persistentUuid": "31d5b510-e08c-4049-9f41-c3c30fdf9b55",
-          "width": 40,
-          "x": 1858,
-          "y": 338,
-          "zOrder": 86,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "view",
@@ -11923,8 +11908,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "35e798c1-5490-4536-843b-ef6dd66ecc14",
           "width": 486,
-          "x": 1884,
-          "y": 332,
+          "x": 2588,
+          "y": 44,
           "zOrder": 96,
           "numberProperties": [],
           "stringProperties": [],
@@ -11947,15 +11932,45 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "height": 225,
+          "layer": "",
+          "name": "startboss",
+          "persistentUuid": "56d6bf78-e021-4c89-acc8-a56b039d3069",
+          "width": 64,
+          "x": 1937,
+          "y": 339,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "portal",
-          "persistentUuid": "aa22a0ed-900d-44a9-9a8a-569cb30dcb9e",
+          "name": "anubis",
+          "persistentUuid": "ab385177-becd-4e5d-9a0c-232b1e238a05",
           "width": 0,
-          "x": 414,
-          "y": 508,
-          "zOrder": 98,
+          "x": 1960,
+          "y": 365,
+          "zOrder": 100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8f6907bc-a2b9-40bd-8bee-3a1b4cb74006",
+          "width": 0,
+          "x": 2357,
+          "y": 414,
+          "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13612,7 +13627,7 @@
               "folded": true,
               "name": "anbs",
               "type": "number",
-              "value": 0
+              "value": 1000
             },
             {
               "folded": true,
@@ -13630,10 +13645,40 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "FireBullet",
+              "type": "FireBullet::FireBullet",
+              "FireCooldown": 0.1,
+              "HasJustFired": false,
+              "FiringArc": 45,
+              "BulletQuantity": 1,
+              "AngleVariance": 0,
+              "RotateBullet": true,
+              "AmmoQuantity": 0,
+              "ShotsPerReload": 0,
+              "ReloadDuration": 1,
+              "MaxAmmo": 0,
+              "ShotsBeforeNextReload": 0,
+              "TotalShotsFired": 0,
+              "TotalBulletsCreated": 0,
+              "StartingAmmo": 0,
+              "TotalReloadsCompleted": 0,
+              "UnlimitedAmmo": true,
+              "ReloadInProgress": false,
+              "HeatIncreasePerShot": 0,
+              "HeatLevel": 0,
+              "AutomaticReloading": true,
+              "OverheatDuration": 0,
+              "LinearCoolingRate": 0.1,
+              "ExponentialCoolingRate": 0.3,
+              "BulletLayer": "",
+              "RandomizedAngle": 0,
+              "BulletSpeedVariance": 0
+            },
+            {
               "name": "RectangleMovement",
               "type": "RectangleMovement::RectangleMovement",
               "Width": 350,
-              "Height": 100,
+              "Height": 150,
               "Clockwise": true,
               "HorizontalEdgeDuration": 2,
               "VerticalEdgeDuration": 1,
@@ -17321,6 +17366,15 @@
                 "",
                 "Desert Caravan.mp3"
               ]
+            },
+            {
+              "type": {
+                "value": "Lighting::SetRadius"
+              },
+              "parameters": [
+                "NewLight",
+                "900"
+              ]
             }
           ]
         },
@@ -18111,6 +18165,277 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "anubis",
+                "activate",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "0",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "30",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "60",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "90",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "120",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "150",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "180",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "210",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "240",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "270",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "300",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "anubis",
+                "FireBullet",
+                "anubis.X()+33",
+                "anubis.Y()+12",
+                "laser",
+                "330",
+                "1000",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "player",
+                    "laser",
+                    "",
+                    "",
+                    "yes"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "playerlife",
+                    "-",
+                    "10"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "=",
+                    "clamp(GlobalVariable(playerlife)/GlobalVariable(playermaxlife)*250,0,250)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "playerlife",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "anubis",
+                    "activate",
+                    "False"
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -18175,6 +18500,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
