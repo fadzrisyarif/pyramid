@@ -19695,6 +19695,63 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "anubis",
+                "bullet",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "anubis",
+                "anbs",
+                "-",
+                "GlobalVariable(playerDamage)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "anubis",
+                "anbs",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "anubis",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
