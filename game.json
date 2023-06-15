@@ -12463,6 +12463,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 429,
+          "layer": "view",
+          "name": "window",
+          "persistentUuid": "fbfd397f-106b-4c9e-a37d-77b2b2c7c4a2",
+          "width": 1121,
+          "x": 81,
+          "y": 94,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
