@@ -3023,6 +3023,398 @@
         "name": "NewSprite219",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Menu.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Menu.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/CaesarDressing-Regular3.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Machine Gun Sound Effect In HQ ~ Non Copyright Noise Of Gun Fire.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Machine Gun Sound Effect In HQ ~ Non Copyright Noise Of Gun Fire.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Boss music meme sound effect.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Boss music meme sound effect.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00025.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/000",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00025.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0002",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00032.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0003",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00042.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0004",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00052.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0005",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00062.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0006",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00072.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0007",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00082.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0008",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_10.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_1.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_2.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_3.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_4.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_5.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_6.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_7.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_8.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_9.png\",\"extension\":\".png\"}",
+        "name": "assets\\Checkpoint_Flag Idle_9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Crumbling Into Bone Pile_7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/GUI_4x_sliced.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\GUI_4x_sliced.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_GUI_4x_sliced.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\GUI_4x_sliced",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_GUI_4x_sliced2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\GUI_4x_sliced2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_GUI_4x_sliced3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\GUI_4x_sliced3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_GUI_4x_sliced4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\GUI_4x_sliced4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00092.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0009",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000102.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00010",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000112.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00011",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000122.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00012",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000132.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00013",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000142.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00014",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000152.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00015",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000162.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00016",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Free Gunshot Sound Effects SFX Gunshots.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Free Gunshot Sound Effects SFX Gunshots.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3116,8 +3508,8 @@
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
@@ -3132,13 +3524,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1240,
+          "height": 737,
           "layer": "",
           "name": "Background",
           "persistentUuid": "8880981e-1d3e-43d7-b1a4-dd1a197fd1ad",
-          "width": 1326,
-          "x": -24,
-          "y": -268,
+          "width": 1367,
+          "x": -9,
+          "y": -6,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3152,8 +3544,8 @@
           "name": "StartButton",
           "persistentUuid": "8c278fd6-5df0-40e0-9aea-38171b4d8e02",
           "width": 0,
-          "x": 77,
-          "y": 88,
+          "x": 592,
+          "y": 272,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -3167,8 +3559,8 @@
           "name": "OptionButton",
           "persistentUuid": "d69cba61-6888-433f-a635-4cc6381ec522",
           "width": 0,
-          "x": 77,
-          "y": 176,
+          "x": 574,
+          "y": 369,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -3182,9 +3574,24 @@
           "name": "ExitButton",
           "persistentUuid": "6bcf1e21-ca9e-41e9-ad9f-d89ccf32fc52",
           "width": 0,
-          "x": 77,
-          "y": 264,
+          "x": 608,
+          "y": 465,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "title",
+          "persistentUuid": "e233f412-5ac4-47ba-afe0-39e2cd215306",
+          "width": 0,
+          "x": 427,
+          "y": 76,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3211,7 +3618,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "craiyon_171520_a_background_image_for_game_pyramid_quest.png",
+                      "image": "Menu.jpg",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3245,13 +3652,13 @@
           "effects": [],
           "behaviors": [],
           "string": "Start",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 40,
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 167,
+            "g": 77,
+            "r": 0
           }
         },
         {
@@ -3266,14 +3673,14 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Option",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 40,
+          "string": "OPTION",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 167,
+            "g": 77,
+            "r": 0
           }
         },
         {
@@ -3288,14 +3695,36 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Exit",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 40,
+          "string": "EXIT",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 167,
+            "g": 77,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "title",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "PYRAMID LUX",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 80,
+          "color": {
+            "b": 167,
+            "g": 77,
+            "r": 0
           }
         }
       ],
@@ -10322,7 +10751,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3282931214416306,
+        "zoomFactor": 0.4005715756957845,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10418,8 +10847,8 @@
           "name": "player",
           "persistentUuid": "574db88b-fd3c-48db-b148-75958eba1d60",
           "width": 0,
-          "x": 82,
-          "y": 495,
+          "x": 94,
+          "y": 549,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -10443,7 +10872,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 53,
+          "height": 126,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "42c7df54-7ff0-4944-a8a1-52b27a3c937d",
@@ -10492,7 +10921,7 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "8faa5fec-5b63-4576-9452-be228adb393a",
-          "width": 378,
+          "width": 498,
           "x": 427,
           "y": 190,
           "zOrder": 4,
@@ -10509,7 +10938,7 @@
           "persistentUuid": "2b9785e6-68a0-4156-8c54-958b0457b693",
           "width": 135,
           "x": 264,
-          "y": 258,
+          "y": 262,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -10518,13 +10947,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 129,
+          "height": 75,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "c0eed319-4b82-4657-8f1b-d2df957c071d",
           "width": 239,
-          "x": 980,
-          "y": 388,
+          "x": 1004,
+          "y": 412,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -10533,13 +10962,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 53,
+          "height": 37,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "d3871fb3-ca3f-433b-a504-08a1dd26fad6",
           "width": 248,
-          "x": 625,
-          "y": 301,
+          "x": 624,
+          "y": 320,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -10606,7 +11035,7 @@
           "initialVariables": []
         },
         {
-          "angle": 179,
+          "angle": 180,
           "customSize": true,
           "height": 126,
           "layer": "",
@@ -10673,8 +11102,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "8a384186-27b9-426c-bd9d-f7277b4da83a",
           "width": 240,
-          "x": 109,
-          "y": 217,
+          "x": 117,
+          "y": 221,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -10853,8 +11282,8 @@
           "name": "NewLight",
           "persistentUuid": "e2b0ff56-c667-4d5a-ad70-591c203936fd",
           "width": 300,
-          "x": 89,
-          "y": 497,
+          "x": 93,
+          "y": 536,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -11397,8 +11826,8 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "eb4d10f9-bf45-487b-8112-11d04bec2c36",
-          "width": 84,
-          "x": 2559,
+          "width": 222,
+          "x": 2421,
           "y": 52,
           "zOrder": 53,
           "numberProperties": [],
@@ -11617,21 +12046,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 429,
-          "layer": "view",
-          "name": "window",
-          "persistentUuid": "aa69fb8a-dfef-4e0c-91bc-42dea867c67d",
-          "width": 1121,
-          "x": 82,
-          "y": 99,
-          "zOrder": 74,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -11713,8 +12127,8 @@
           "name": "healthPotion",
           "persistentUuid": "c6f841fc-08fb-4630-99bb-88fb5236196a",
           "width": 110,
-          "x": 308,
-          "y": 294,
+          "x": 305,
+          "y": 293,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -11908,8 +12322,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "35e798c1-5490-4536-843b-ef6dd66ecc14",
           "width": 486,
-          "x": 2588,
-          "y": 44,
+          "x": 2589,
+          "y": 49,
           "zOrder": 96,
           "numberProperties": [],
           "stringProperties": [],
@@ -11971,6 +12385,96 @@
           "x": 2357,
           "y": 414,
           "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw",
+          "persistentUuid": "6058b76b-f84e-4282-887c-99396a360e0d",
+          "width": 0,
+          "x": 201,
+          "y": 405,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "27610753-aa75-4bc1-8cc0-1a6fe1430f22",
+          "width": 0,
+          "x": 700,
+          "y": 458,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "2aaa76e0-ac09-456d-8bd6-5a3978d7b998",
+          "width": 0,
+          "x": 664,
+          "y": 118,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "cffed126-9d36-4490-b60b-fb2b770aa8b9",
+          "width": 0,
+          "x": 85,
+          "y": 262,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "flag",
+          "persistentUuid": "8732a7a3-8420-4c50-a9e8-5d78818f3e74",
+          "width": 0,
+          "x": 478,
+          "y": 256,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 429,
+          "layer": "view",
+          "name": "window",
+          "persistentUuid": "fbfd397f-106b-4c9e-a37d-77b2b2c7c4a2",
+          "width": 1121,
+          "x": 81,
+          "y": 94,
+          "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12881,7 +13385,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_1.png",
+                      "image": "assets/0009",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12898,7 +13402,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_2.png",
+                      "image": "assets/00010",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12915,7 +13419,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_3.png",
+                      "image": "assets/00011",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12932,7 +13436,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_4.png",
+                      "image": "assets/00012",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12949,7 +13453,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_5.png",
+                      "image": "assets/00013",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12966,7 +13470,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_6.png",
+                      "image": "assets/00014",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12983,7 +13487,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_7.png",
+                      "image": "assets/00015",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13000,7 +13504,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_8.png",
+                      "image": "assets/00016",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13168,7 +13672,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_8.png",
                       "points": [],
                       "originPoint": {
@@ -13182,10 +13686,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_9.png",
                       "points": [],
                       "originPoint": {
@@ -13199,10 +13726,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_10.png",
                       "points": [],
                       "originPoint": {
@@ -13216,10 +13766,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_11.png",
                       "points": [],
                       "originPoint": {
@@ -13233,10 +13806,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_12.png",
                       "points": [],
                       "originPoint": {
@@ -13250,10 +13846,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_13.png",
                       "points": [],
                       "originPoint": {
@@ -13267,7 +13886,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -13589,6 +14231,137 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Skeleton_Crumbling Into Bone Pile_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -13627,7 +14400,7 @@
               "folded": true,
               "name": "anbs",
               "type": "number",
-              "value": 1000
+              "value": 10
             },
             {
               "folded": true,
@@ -15345,6 +16118,262 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "flag",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Checkpoint_Flag Idle_10",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Checkpoint_Flag Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "lt",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\GUI_4x_sliced",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\GUI_4x_sliced4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 187.5,
+                            "y": 282.5
+                          },
+                          {
+                            "x": 357.5,
+                            "y": 282
+                          },
+                          {
+                            "x": 358,
+                            "y": 334
+                          },
+                          {
+                            "x": 186.5,
+                            "y": 333
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -15369,7 +16398,7 @@
                 "",
                 "Desert Caravan.mp3",
                 "",
-                "10",
+                "20",
                 ""
               ]
             },
@@ -16275,6 +17304,18 @@
                 "0",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Free Gunshot Sound Effects SFX Gunshots.mp3",
+                "",
+                "30",
+                ""
+              ]
             }
           ]
         },
@@ -16336,6 +17377,18 @@
               "parameters": [
                 "bullet",
                 "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Free Gunshot Sound Effects SFX Gunshots.mp3",
+                "",
+                "30",
+                ""
               ]
             }
           ]
@@ -16657,45 +17710,123 @@
                 "=",
                 "25"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
               "type": {
-                "value": "SetObjectVariableAsBoolean"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "anubis",
-                "activate",
-                "False"
-              ]
-            },
-            {
-              "type": {
-                "value": "ZoomCamera"
-              },
-              "parameters": [
+                "player",
+                "saw_left",
                 "",
-                "3",
                 "",
                 ""
               ]
             },
             {
               "type": {
-                "value": "Lighting::SetRadius"
+                "value": "PosX"
               },
               "parameters": [
-                "NewLight",
-                "300"
+                "player",
+                "<",
+                "saw_left.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()-30"
               ]
             },
             {
               "type": {
-                "value": "ChangeHeight"
+                "value": "ModVarGlobal"
               },
               "parameters": [
-                "bossBts",
+                "playerlife",
+                "-",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
                 "=",
-                "2"
+                "clamp(GlobalVariable(playerlife)/GlobalVariable(playermaxlife)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "saw_left",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                ">",
+                "saw_left.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()+30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "playerlife",
+                "-",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(GlobalVariable(playerlife)/GlobalVariable(playermaxlife)*250,0,250)"
               ]
             }
           ]
@@ -16882,6 +18013,45 @@
               },
               "parameters": [
                 "tengkorak",
+                "skullHealth",
+                "-",
+                "GlobalVariable(playerDamage)"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "bullet",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "bullet",
+                "anubis",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "anubis",
                 "skullHealth",
                 "-",
                 "GlobalVariable(playerDamage)"
@@ -17335,7 +18505,19 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "anubis",
+                "anbs",
+                "=",
+                "0"
+              ]
+            }
+          ],
           "actions": []
         },
         {
@@ -17402,6 +18584,18 @@
               "parameters": [
                 "NewLight",
                 "900"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Boss music meme sound effect.mp3",
+                "",
+                "50",
+                ""
               ]
             }
           ]
@@ -18389,102 +19583,107 @@
                 ""
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "player",
-                "laser",
-                "",
-                "",
-                "yes"
-              ]
-            }
           ],
-          "actions": [
+          "events": [
             {
-              "type": {
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "playerlife",
-                "-",
-                "0.125"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "player",
+                    "laser",
+                    "",
+                    "",
+                    "yes"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "playerlife",
+                    "-",
+                    "10"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "PanelSpriteObject::Width"
-              },
-              "parameters": [
-                "HealthBar",
-                "=",
-                "clamp(GlobalVariable(playerlife)/GlobalVariable(playermaxlife)*250,0,250)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "bullet",
-                "anubis",
-                "",
-                "",
-                "yes"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "anubis",
-                "anbs",
-                "-",
-                "GlobalVariable(playerDamage)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "anubis",
-                "anbs",
-                "<=",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "anubis",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "=",
+                    "clamp(GlobalVariable(playerlife)/GlobalVariable(playermaxlife)*250,0,250)"
+                  ]
+                }
               ]
             },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "playerlife",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "anubis",
+                    "activate",
+                    "False"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "anubis",
+                    "alive",
+                    "False"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "anubis",
+                "alive",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "ChangeHeight"
