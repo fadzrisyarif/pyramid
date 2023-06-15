@@ -3415,6 +3415,15 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "win.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "win.jpg",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3742,26 +3751,34 @@
                 "no",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
             }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"level1\"",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"level1\"",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -3779,24 +3796,32 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
             }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "value": "Quit"
-              },
-              "parameters": [
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -10751,7 +10776,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4005715756957845,
+        "zoomFactor": 1.8417080134152433,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11269,7 +11294,7 @@
           "width": 1357,
           "x": 976,
           "y": 133,
-          "zOrder": 4,
+          "zOrder": 114,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11807,13 +11832,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 65,
+          "height": 33,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "cbda9ffa-3555-4ab6-8b82-c65cce6f8c8b",
           "width": 1420,
           "x": 1223,
-          "y": 276,
+          "y": 308,
           "zOrder": 52,
           "numberProperties": [],
           "stringProperties": [],
@@ -11822,7 +11847,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 227,
+          "height": 254,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "eb4d10f9-bf45-487b-8112-11d04bec2c36",
@@ -11949,21 +11974,6 @@
           "width": 64,
           "x": 1859,
           "y": 341,
-          "zOrder": 61,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 226,
-          "layer": "",
-          "name": "bossBts",
-          "persistentUuid": "60826572-4604-441e-8ff0-b06bffa6a295",
-          "width": 64,
-          "x": 2441,
-          "y": 343,
           "zOrder": 61,
           "numberProperties": [],
           "stringProperties": [],
@@ -12317,12 +12327,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 291,
+          "height": 519,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "35e798c1-5490-4536-843b-ef6dd66ecc14",
-          "width": 486,
-          "x": 2589,
+          "width": 602,
+          "x": 2473,
           "y": 49,
           "zOrder": 96,
           "numberProperties": [],
@@ -12475,6 +12485,156 @@
           "x": 81,
           "y": 94,
           "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "7b867fb0-8e11-4779-ae07-d499d8a0c290",
+          "width": 0,
+          "x": 2334,
+          "y": 150,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "032360ef-e7a9-4f17-8b3d-ae67de744a3e",
+          "width": 0,
+          "x": 2386,
+          "y": 241,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "90c5dbd7-9238-482e-abca-f5c4440e14cf",
+          "width": 447,
+          "x": 1224,
+          "y": 276,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 33,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f633b67b-2945-4c0a-abdf-7195416af858",
+          "width": 428,
+          "x": 1714,
+          "y": 308,
+          "zOrder": 115,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d64b67be-871e-4203-86e4-4ff05afa1059",
+          "width": 420,
+          "x": 2181,
+          "y": 273,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "88fc9466-e4cd-4649-9a24-0e6ad0c76807",
+          "width": 0,
+          "x": 2146,
+          "y": 274,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "8ea59778-e9c2-41ac-b373-fb5660445e3d",
+          "width": 0,
+          "x": 1674,
+          "y": 275,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "136d9624-e008-4573-a930-1b91a7bc095f",
+          "width": 0,
+          "x": 2061,
+          "y": 200,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "62c3ceee-b52b-45ea-bc06-c928baec0b37",
+          "width": 0,
+          "x": 1601,
+          "y": 201,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 36,
+          "layer": "",
+          "name": "saw",
+          "persistentUuid": "cbdc8225-e1b8-4929-951b-670e7a9dbd89",
+          "width": 36,
+          "x": 1918,
+          "y": 296,
+          "zOrder": 113,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14400,7 +14560,7 @@
               "folded": true,
               "name": "anbs",
               "type": "number",
-              "value": 10
+              "value": 1000
             },
             {
               "folded": true,
@@ -18052,7 +18212,7 @@
               },
               "parameters": [
                 "anubis",
-                "skullHealth",
+                "anbs",
                 "-",
                 "GlobalVariable(playerDamage)"
               ]
@@ -18518,7 +18678,27 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "anubis",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"win\"",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -18594,7 +18774,7 @@
                 "",
                 "Boss music meme sound effect.mp3",
                 "",
-                "50",
+                "18",
                 ""
               ]
             }
@@ -19701,57 +19881,17 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "anubis",
-                "bullet",
-                "",
-                "",
-                "yes"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "anubis",
-                "anbs",
-                "-",
-                "GlobalVariable(playerDamage)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "VarObjet"
               },
               "parameters": [
                 "anubis",
                 "anbs",
-                "<=",
+                "=",
                 "0"
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "anubis",
-                ""
-              ]
-            }
-          ]
+          "actions": []
         }
       ],
       "layers": [
@@ -20850,7 +20990,7 @@
               },
               "parameters": [
                 "",
-                "\"over2\"",
+                "\"win\"",
                 ""
               ]
             }
@@ -21245,8 +21385,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "over2",
-      "name": "over2",
+      "mangledName": "win",
+      "name": "win",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -21255,14 +21395,14 @@
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.6672773998329974,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21270,14 +21410,14 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 749,
           "layer": "",
           "name": "Bg_bl",
           "persistentUuid": "4be856a1-bfba-4cd5-9535-cc49b12e1748",
-          "width": 0,
-          "x": -296,
-          "y": -173,
+          "width": 1375,
+          "x": -14,
+          "y": -15,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -21327,6 +21467,51 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "win",
+          "persistentUuid": "e76d0600-5ae2-4281-a2be-e886d9ae5d9d",
+          "width": 0,
+          "x": 528,
+          "y": 206,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewText2",
+          "persistentUuid": "966ebd4a-0c52-431b-8fe1-19ac08bc8025",
+          "width": 0,
+          "x": 359,
+          "y": 449,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewText3",
+          "persistentUuid": "4b72e7a5-391d-4d23-bc85-c65836fcd443",
+          "width": 0,
+          "x": 672,
+          "y": 449,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -21338,7 +21523,7 @@
           "name": "Bg_bl",
           "rightMargin": 0,
           "tags": "",
-          "texture": "background_bl.jpg",
+          "texture": "win.jpg",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -21441,6 +21626,72 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "win",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "YOU WIN",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 80,
+          "color": {
+            "b": 226,
+            "g": 144,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "NewText2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "CONTINUE",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 194,
+            "g": 227,
+            "r": 80
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "NewText3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "MAIN MENU",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 134,
+            "g": 233,
+            "r": 184
+          }
         }
       ],
       "events": [
@@ -21452,7 +21703,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "retry",
+                "NewText2",
                 "",
                 "",
                 ""
@@ -21489,7 +21740,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "exit",
+                "NewText3",
                 "",
                 "",
                 ""
@@ -21508,9 +21759,11 @@
           "actions": [
             {
               "type": {
-                "value": "Quit"
+                "value": "Scene"
               },
               "parameters": [
+                "",
+                "\"Main Menu\"",
                 ""
               ]
             }
